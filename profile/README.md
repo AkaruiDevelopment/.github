@@ -14,9 +14,15 @@ aoi.js is our flagship project—a powerful and user-friendly JavaScript library
 
 Check out the [aoi.js repository](https://github.com/AkaruiDevelopment/aoi.js) to learn more.
 
-### aoi.db
+### Zeneth
 
-aoi.db is a lightweight and easy-to-use database library for aoi.js. It provides simple and efficient data storage for your Discord bots. With aoi.db, you can store and retrieve data with ease, making it a valuable addition to your bot projects.
+Zeenth is a Discord API Library specifically designed for aoi.js v7. It provides enhanced functionality and flexibility for interacting with the Discord API in combination with aoi.js. With AoiLuna, you can access advanced features and leverage the full power of the Discord platform in your bot projects.
+
+Learn more about AoiLuna in the [repository](https://github.com/AkaruiDevelopment/Zeneth).
+
+### @akarui/aoi.db
+
+@akarui/aoi.db is a lightweight and easy-to-use database library for aoi.js. It provides simple and efficient data storage for your Discord bots. With aoi.db, you can store and retrieve data with ease, making it a valuable addition to your bot projects.
 
 Explore the [aoi.db repository](https://github.com/AkaruiDevelopment/aoi.db) for more information.
 
@@ -31,14 +37,6 @@ Find out more about @akarui/aoi.music in the [repository](https://github.com/Aka
 @akarui/aoi.panel is a powerful and customizable web dashboard for managing your aoi.js-powered Discord bots. It provides an intuitive interface for monitoring and controlling your bots, managing guild settings, and accessing logs and analytics. With @akarui/aoi.panel, you can easily enhance the management and administration of your bots.
 
 Discover more about @akarui/aoi.panel in the [repository](https://github.com/AkaruiDevelopment/aoi.panel).
-
-### AoiLuna
-
-AoiLuna is a Discord API Library specifically designed for aoi.js v7. It provides enhanced functionality and flexibility for interacting with the Discord API in combination with aoi.js. With AoiLuna, you can access advanced features and leverage the full power of the Discord platform in your bot projects.
-
-Learn more about AoiLuna in the [repository](https://github.com/AkaruiDevelopment/AoiLuna).
-
-
 
 ## 📚 Resources
 
