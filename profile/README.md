@@ -16,7 +16,7 @@ Check out the [aoi.js repository](https://github.com/AkaruiDevelopment/aoi.js) t
 
 ### Zeneth
 
-Zeenth is a Discord API Library specifically designed for aoi.js v7. It provides enhanced functionality and flexibility for interacting with the Discord API in combination with aoi.js. With AoiLuna, you can access advanced features and leverage the full power of the Discord platform in your bot projects.
+Zeneth is a Discord API Library specifically designed for aoi.js v7. It provides enhanced functionality and flexibility for interacting with the Discord API in combination with aoi.js. With AoiLuna, you can access advanced features and leverage the full power of the Discord platform in your bot projects.
 
 Learn more about AoiLuna in the [repository](https://github.com/AkaruiDevelopment/Zeneth).
 
